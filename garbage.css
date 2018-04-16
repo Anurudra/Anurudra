@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(0,0,130,0.85);
+}
+
+        li {
+    float: left;
+        }
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:rgba(0,100,180,0.8);
+}
+
+
+
+
+
+<ul>
+            <li><a href="#"> Student Details</a></li>
+            <li><a href="#"> Reports</a></li>
+            
+            <li><a href="#"> MID-SEM Marks </a></li>
+            
+            <li><a href="#"> Reports</a></li>
+            
+            <li><a href="#"> Internal Marks</a></li>
+            
+            <li ><a href="#"> Attendence</a></li>
+            
+            
+            </ul>
+        
